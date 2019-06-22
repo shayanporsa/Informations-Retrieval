@@ -1,0 +1,52 @@
+C:\Users\ShayanSystem\source\repos\Information Retrieval\Information Retrieval\bin\Debug\Information Retrieval.exe.config
+C:\Users\ShayanSystem\source\repos\Information Retrieval\Information Retrieval\bin\Debug\Information Retrieval.exe
+C:\Users\ShayanSystem\source\repos\Information Retrieval\Information Retrieval\bin\Debug\Information Retrieval.pdb
+C:\Users\ShayanSystem\source\repos\Information Retrieval\Information Retrieval\obj\Debug\Information_Retrieval.Form1.resources
+C:\Users\ShayanSystem\source\repos\Information Retrieval\Information Retrieval\obj\Debug\Information_Retrieval.Properties.Resources.resources
+C:\Users\ShayanSystem\source\repos\Information Retrieval\Information Retrieval\obj\Debug\Information Retrieval.csproj.GenerateResource.cache
+C:\Users\ShayanSystem\source\repos\Information Retrieval\Information Retrieval\obj\Debug\Information Retrieval.csproj.CoreCompileInputs.cache
+C:\Users\ShayanSystem\source\repos\Information Retrieval\Information Retrieval\obj\Debug\Information Retrieval.exe
+C:\Users\ShayanSystem\source\repos\Information Retrieval\Information Retrieval\obj\Debug\Information Retrieval.pdb
+C:\Users\ShayanSystem\source\repos\Information Retrieval\Information Retrieval\obj\Debug\Information_Retrieval.result.resources
+C:\Users\ShayanSystem\source\repos\Information Retrieval\Information Retrieval\obj\Debug\Information_Retrieval.TextFile.resources
+C:\Users\ShayanSystem\source\repos\Information Retrieval\Information Retrieval\obj\Debug\Information Retrieval.csprojAssemblyReference.cache
+C:\Users\ShayanSystem\source\repos\Information Retrieval\Information Retrieval\obj\Debug\Information_Retrieval.Stg.resources
+C:\Users\ShayanSystem\source\repos\Information Retrieval\Information Retrieval\obj\Debug\Information_Retrieval.Asearch.resources
+H:\Information Retrieval\Information Retrieval\Information Retrieval\bin\Debug\Information Retrieval.exe.config
+H:\Information Retrieval\Information Retrieval\Information Retrieval\obj\Debug\Information Retrieval.exe
+H:\Information Retrieval\Information Retrieval\Information Retrieval\obj\Debug\Information Retrieval.pdb
+H:\Information Retrieval\Information Retrieval\Information Retrieval\bin\Debug\Information Retrieval.exe
+H:\Information Retrieval\Information Retrieval\Information Retrieval\bin\Debug\Information Retrieval.pdb
+H:\Information Retrieval\Information Retrieval\Information Retrieval\obj\Debug\Information Retrieval.csprojResolveAssemblyReference.cache
+H:\Information Retrieval\Information Retrieval\Information Retrieval\obj\Debug\Information_Retrieval.Asearch.resources
+H:\Information Retrieval\Information Retrieval\Information Retrieval\obj\Debug\Information_Retrieval.Form1.resources
+H:\Information Retrieval\Information Retrieval\Information Retrieval\obj\Debug\Information_Retrieval.Stg.resources
+H:\Information Retrieval\Information Retrieval\Information Retrieval\obj\Debug\Information_Retrieval.Properties.Resources.resources
+H:\Information Retrieval\Information Retrieval\Information Retrieval\obj\Debug\Information_Retrieval.result.resources
+H:\Information Retrieval\Information Retrieval\Information Retrieval\obj\Debug\Information_Retrieval.TextFile.resources
+H:\Information Retrieval\Information Retrieval\Information Retrieval\obj\Debug\Information Retrieval.csproj.GenerateResource.Cache
+C:\Users\Pretty Lady\Desktop\Information Retrieval\Information Retrieval\Information Retrieval\bin\Debug\Information Retrieval.exe.config
+C:\Users\Pretty Lady\Desktop\Information Retrieval\Information Retrieval\Information Retrieval\obj\Debug\Information Retrieval.exe
+C:\Users\Pretty Lady\Desktop\Information Retrieval\Information Retrieval\Information Retrieval\obj\Debug\Information Retrieval.pdb
+C:\Users\Pretty Lady\Desktop\Information Retrieval\Information Retrieval\Information Retrieval\obj\Debug\Information_Retrieval.Asearch.resources
+C:\Users\Pretty Lady\Desktop\Information Retrieval\Information Retrieval\Information Retrieval\obj\Debug\Information_Retrieval.Form1.resources
+C:\Users\Pretty Lady\Desktop\Information Retrieval\Information Retrieval\Information Retrieval\obj\Debug\Information_Retrieval.Stg.resources
+C:\Users\Pretty Lady\Desktop\Information Retrieval\Information Retrieval\Information Retrieval\obj\Debug\Information_Retrieval.Properties.Resources.resources
+C:\Users\Pretty Lady\Desktop\Information Retrieval\Information Retrieval\Information Retrieval\obj\Debug\Information_Retrieval.result.resources
+C:\Users\Pretty Lady\Desktop\Information Retrieval\Information Retrieval\Information Retrieval\obj\Debug\Information_Retrieval.TextFile.resources
+C:\Users\Pretty Lady\Desktop\Information Retrieval\Information Retrieval\Information Retrieval\obj\Debug\Information Retrieval.csproj.GenerateResource.Cache
+C:\Users\Pretty Lady\Desktop\Information Retrieval\Information Retrieval\Information Retrieval\bin\Debug\Information Retrieval.exe
+C:\Users\Pretty Lady\Desktop\Information Retrieval\Information Retrieval\Information Retrieval\bin\Debug\Information Retrieval.pdb
+D:\project\Information Retrieval\Information Retrieval\bin\Debug\Information Retrieval.exe.config
+D:\project\Information Retrieval\Information Retrieval\obj\Debug\Information Retrieval.exe
+D:\project\Information Retrieval\Information Retrieval\obj\Debug\Information Retrieval.pdb
+D:\project\Information Retrieval\Information Retrieval\bin\Debug\Information Retrieval.exe
+D:\project\Information Retrieval\Information Retrieval\bin\Debug\Information Retrieval.pdb
+D:\project\Information Retrieval\Information Retrieval\obj\Debug\Information Retrieval.csprojResolveAssemblyReference.cache
+D:\project\Information Retrieval\Information Retrieval\obj\Debug\Information_Retrieval.Asearch.resources
+D:\project\Information Retrieval\Information Retrieval\obj\Debug\Information_Retrieval.Form1.resources
+D:\project\Information Retrieval\Information Retrieval\obj\Debug\Information_Retrieval.Stg.resources
+D:\project\Information Retrieval\Information Retrieval\obj\Debug\Information_Retrieval.Properties.Resources.resources
+D:\project\Information Retrieval\Information Retrieval\obj\Debug\Information_Retrieval.result.resources
+D:\project\Information Retrieval\Information Retrieval\obj\Debug\Information_Retrieval.TextFile.resources
+D:\project\Information Retrieval\Information Retrieval\obj\Debug\Information Retrieval.csproj.GenerateResource.Cache
