@@ -1,4 +1,4 @@
-Course project The Basics of Data Recovery Based on Dr. Manning's Book
+Course project The Basics of information retrived Based on Dr. Manning's Book
 Project Description:
 In the project, an unlimited number of text files are received and the following algorithms are applied to them
 Project abilities:
